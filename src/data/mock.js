@@ -31,7 +31,7 @@ export const mockProjects = [
     description: 'Catálogo digital para empresa de produtos de limpeza com visualização dos principais produtos e dashboard completo para gerenciamento pelos funcionários.',
     category: 'frontend',
     categoryName: 'Frontend',
-    image: 'https://images.unsplash.com/photo-1584949091598-c31daaaa4aa9?w=500&h=300&fit=crop',
+    image: '/imagens/eletrosol.png',
     technologies: ['HTML', 'CSS', 'JavaScript', 'Dashboard', 'Responsive Design'],
     demoUrl: 'https://eletrosolimp.netlify.app/',
     githubUrl: 'https://github.com/Joao-ahah/Catalogo-do-Eletrosolimp'
@@ -42,7 +42,7 @@ export const mockProjects = [
     description: 'Plataforma e-commerce completa para o Centro de Artesanato de Russas, com catálogo de produtos artesanais e sistema de vendas online.',
     category: 'frontend',
     categoryName: 'Frontend',
-    image: 'https://images.unsplash.com/photo-1452860606245-08befc0ff44b?w=500&h=300&fit=crop',
+    image: '/imagens/centroartesanato.png',
     technologies: ['HTML', 'CSS', 'JavaScript', 'E-commerce', 'Responsive Design'],
     demoUrl: 'https://centroartesanato.netlify.app/',
     githubUrl: 'https://github.com/Joao-ahah/Centro-de-Artesanato---SITE'
@@ -53,7 +53,7 @@ export const mockProjects = [
     description: 'Website institucional para o Campori Regional de Desbravadores com informações do evento, programação e inscrições.',
     category: 'frontend',
     categoryName: 'Frontend',
-    image: 'https://images.unsplash.com/photo-1511988617509-a57c8a288659?w=500&h=300&fit=crop',
+    image: '/imagens/campori.png',
     technologies: ['HTML', 'CSS', 'JavaScript', 'Responsive Design', 'Event Management'],
     demoUrl: 'https://camporiregional.netlify.app/',
     githubUrl: 'https://github.com/Joao-ahah/Campori-Regional---Site'
@@ -64,7 +64,7 @@ export const mockProjects = [
     description: 'Catálogo digital especializado em produtos naturais da empresa Top Natus, incluindo dashboard administrativo para controle de estoque e produtos.',
     category: 'frontend',
     categoryName: 'Frontend',
-    image: 'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=500&h=300&fit=crop',
+    image: '/imagens/topnatus.png',
     technologies: ['HTML', 'CSS', 'JavaScript', 'Dashboard', 'Product Management'],
     demoUrl: 'https://catalogoadriel.netlify.app/',
     githubUrl: 'https://github.com/Joao-ahah/Cat-logoTopNatus'
@@ -75,7 +75,7 @@ export const mockProjects = [
     description: 'Aplicação interativa de quiz para testar o conhecimento dos jovens adventistas sobre a lição da semana, com sistema de pontuação e feedback.',
     category: 'frontend',
     categoryName: 'Frontend',
-    image: 'https://images.unsplash.com/photo-1606092195730-5d7b9af1efc5?w=500&h=300&fit=crop',
+    image: '/imagens/quiz.png',
     technologies: ['HTML', 'CSS', 'JavaScript', 'Quiz System', 'Interactive Learning'],
     demoUrl: 'https://quizlicaojovem.netlify.app/',
     githubUrl: 'https://github.com/Joao-ahah/Quizdali-ojovem'
