@@ -88,29 +88,19 @@ export const mockProjects = [
     description: 'Protótipo completo de plataforma para aluguel de imóveis, centralizando todos os imóveis disponíveis de uma cidade para facilitar pesquisas e locações.',
     category: 'uiux',
     categoryName: 'UI/UX Design',
-    image: 'https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=500&h=300&fit=crop',
+    image: '/imagens/aluga+.png',
     technologies: ['Figma', 'Prototyping', 'UX Research', 'Real Estate', 'User Experience'],
     demoUrl: 'https://www.figma.com/proto/KJmY8NVwZVy1OZAeA3hQ9a/Untitled?node-id=0-1',
     githubUrl: null
   },
-  {
-    id: 7,
-    title: 'Site Aluguéis de Imóveis',
-    description: 'Design de interface para site especializado em aluguéis de imóveis, com foco na experiência do usuário e facilidade de navegação.',
-    category: 'uiux',
-    categoryName: 'UI/UX Design',
-    image: 'https://images.unsplash.com/photo-1582407947304-fd86f028f716?w=500&h=300&fit=crop',
-    technologies: ['Figma', 'UI Design', 'Web Design', 'Property Management', 'User Interface'],
-    demoUrl: 'https://www.figma.com/proto/kW1vGg7d1UzVKlHANkdLEo/Untitled?node-id=8-2&starting-point-node-id=8%3A2',
-    githubUrl: null
-  },
+  
   {
     id: 8,
     title: 'App Foco Zero - Combate à Dengue',
     description: 'Protótipo de aplicativo mobile desenvolvido para auxiliar agentes de endemias no combate à dengue, com ferramentas de monitoramento e prevenção.',
     category: 'uiux',
     categoryName: 'UI/UX Design',
-    image: 'https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=500&h=300&fit=crop',
+    image: '/imagens/focozero.png',
     technologies: ['Figma', 'Mobile Design', 'App Prototyping', 'Health Tech', 'Social Impact'],
     demoUrl: 'https://www.figma.com/proto/9XE4vl4C9S0jNZyVyy89Pj/FOCO-ZERO--?node-id=14-441&starting-point-node-id=14%3A441',
     githubUrl: null
@@ -123,9 +113,9 @@ export const mockProjects = [
     description: 'Criação de identidades visuais completas para hamburguerias, pizzarias e açaiterias, incluindo logotipos, paletas de cores e aplicações.',
     category: 'graphic',
     categoryName: 'Design Gráfico',
-    image: 'https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=500&h=300&fit=crop',
-    technologies: ['Adobe Illustrator', 'Adobe Photoshop', 'Brand Identity', 'Logo Design', 'Visual Identity'],
-    demoUrl: 'https://www.linkedin.com/in/jo%C3%A3o-victor-b971482a6/',
+    image: '/imagens/hambur.png',
+    technologies: ['Lovart.ai', 'Canva', 'Brand Identity', 'Logo Design', 'Visual Identity'],
+    demoUrl: 'https://www.canva.com/design/DAGxalmOPUc/Jg39D0UHXQWB9vEA2dWZjQ/edit?utm_content=DAGxalmOPUc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton',
     githubUrl: null
   },
   {
@@ -134,9 +124,9 @@ export const mockProjects = [
     description: 'Desenvolvimento de identidade visual para Copa de Futsal 3x3 e X1 de Futsal, incluindo logos, certificados e materiais promocionais.',
     category: 'graphic',
     categoryName: 'Design Gráfico',
-    image: 'https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=500&h=300&fit=crop',
-    technologies: ['Adobe Illustrator', 'Sports Branding', 'Event Design', 'Certificate Design', 'Promotional Material'],
-    demoUrl: 'https://www.linkedin.com/in/jo%C3%A3o-victor-b971482a6/',
+    image: '/imagens/copa.png',
+    technologies: ['Canva', 'Sports Branding', 'Lovart.ai', 'Certificate Design', 'Promotional Material'],
+    demoUrl: 'https://wa.me/5575992881961?text=Olá%2C%20gostaria%20de%20conversar%20sobre%20um%20projeto!',
     githubUrl: null
   },
   {
@@ -145,9 +135,9 @@ export const mockProjects = [
     description: 'Criação de identidades visuais para as empresas do grupo: Eletrosol (tratamento de água), Eletrosolimp (produtos de limpeza) e Eletrosolpiscinas (produtos para piscinas).',
     category: 'graphic',
     categoryName: 'Design Gráfico',
-    image: 'https://images.unsplash.com/photo-1497366216548-37526070297c?w=500&h=300&fit=crop',
-    technologies: ['Adobe Illustrator', 'Corporate Identity', 'Brand Portfolio', 'Industrial Design', 'Multi-brand Strategy'],
-    demoUrl: 'https://www.linkedin.com/in/jo%C3%A3o-victor-b971482a6/',
+    image: '/imagens/eletrosoll.png',
+    technologies: ['Canva', 'Lovart.ai', 'Capcut', 'Industrial Design', 'Multi-brand Strategy'],
+    demoUrl: 'https://www.canva.com/design/DAGxaonh_8Q/Qe_IST2iQ4nFFucuLhBE-w/edit?utm_content=DAGxaonh_8Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton',
     githubUrl: null
   },
 
@@ -158,8 +148,8 @@ export const mockProjects = [
     description: 'Produção e edição de vídeos promocionais para empresas do setor alimentício e corporativo, incluindo motion graphics e trilhas sonoras.',
     category: 'video',
     categoryName: 'Edição de Vídeo',
-    image: 'https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=500&h=300&fit=crop',
-    technologies: ['Adobe Premiere Pro', 'After Effects', 'Motion Graphics', 'Color Grading', 'Audio Editing'],
+    image: '/imagens/videopromo.png',
+    technologies: ['Capcut', 'Canva', 'Inshot', 'Color Grading', 'Audio Editing'],
     demoUrl: 'https://www.linkedin.com/in/jo%C3%A3o-victor-b971482a6/',
     githubUrl: null
   }

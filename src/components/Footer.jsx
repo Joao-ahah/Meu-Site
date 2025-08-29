@@ -107,7 +107,7 @@ const Footer = () => {
             sua ideia em uma solução digital excepcional.
           </p>
           <a
-            href="mailto:johnsantosapzone@gmail.com"
+            href="https://wa.me/5575992881961?text=Olá%2C%20gostaria%20de%20conversar%20sobre%20um%20projeto!"
             className="inline-flex items-center gap-2 bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700 text-white px-8 py-4 rounded-full text-lg font-semibold transition-all duration-300 transform hover:scale-105 hover:shadow-2xl"
           >
             <Mail size={20} />
